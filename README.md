@@ -1,7 +1,7 @@
 # Ecoleta
 Next Level Week
 
-###Sobre o projeto
+#obre o projeto
 A proposta do projeto era produzir um site com back-end e front-end para cadastro e procura de pontos de coleta para redíduos que precisam de lugares específicos para descarte.
 Exemplo:
 - Lâmpadas
@@ -11,10 +11,10 @@ Exemplo:
 - Resíduos Orgânicos
 - Óleo de cozinha
 
-###Como foi produzido
+#Como foi produzido
 A Rocketseat realizou a Next Level Week #1, durante uma semana os professores ensinaram a produzir o site Ecoleta, não somente o front-end do site, mas também o back-end, a partir dos vídeos e da ajuda do professor durante os vídeos consegui produzir esse projeto. 
 
-###Informações
+#Informações
 Professor: Mayk brito.
 Data: 01 ao dia 07 de junho.
 Linguagens: HTML, CSS e JavaScript.
