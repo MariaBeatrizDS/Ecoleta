@@ -22,6 +22,6 @@ Professor: Mayk brito.
 
 Data: 01 ao dia 07 de junho.
 
-Linguagens: HTML, CSS e JavaScript.
+Linguagens: HTML, CSS, SQLite e JavaScript.
 
 Nível: Quando nos inscrevemos na NLW #1 respondemos algumas perguntas e o nível é escolhido apartir desse teste. Imagino que seja entre básico e intermediário.
