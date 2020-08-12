@@ -1,5 +1,5 @@
 # Ecoleta
-Next Level Week #1
+## Next Level Week #1
 
 ### Sobre o projeto
 
